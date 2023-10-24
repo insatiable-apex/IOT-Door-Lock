@@ -22,8 +22,8 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "";  //WiFi Name
-const char* password = "";  //WiFi Password
+const char* ssid = "test";  //WiFi Name
+const char* password = "12345678";  //WiFi Password
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // You need to click "start" on a bot before it can message you 
